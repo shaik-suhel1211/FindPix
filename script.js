@@ -57,6 +57,7 @@ searchImages();
 showMoreBtn.addEventListener("click",()=>{
     if(searchBox.value==""){
         p++;
+         searchRes.innerHTML="";
         beforeSearch();
     }else{
     page++;
