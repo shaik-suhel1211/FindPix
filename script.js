@@ -59,7 +59,7 @@ showMoreBtn.addEventListener("click",()=>{
         p++;
          searchRes.innerHTML="";
         beforeSearch();
-    }else{
+    }
     page++;
     searchImages();
-}})
+});
