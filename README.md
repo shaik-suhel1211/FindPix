@@ -15,3 +15,10 @@ Frontend: HTML, CSS (Responsive Design), JavaScript
 API Integration: Unsplash API for fetching images
 
 ![image_alt](https://github.com/shaik-suhel1211/FindPix/blob/09d0cbb5553ffbacb122003c3f115041c21dca02/website_prev.png)
+
+## Developed By 
+## SHAIK SUHEL AHMED
+[[My LinkedIn Profile]](https://www.linkedin.com/in/shaiksuhelahmed03/)
+<a href="https://www.linkedin.com/in/shaiksuhelahmed03/" target="_blank">
+ <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square" alt="LinkedIn Badge" />
+ </a>
